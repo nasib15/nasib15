@@ -5,9 +5,9 @@
 <!-- About Me Section -->
 
 <h2 align="left">🔰 About Me</h2>
-<h3 align="left">Hi, I'm Nehal, a passionate Front-End Developer</h3>
+<h3 align="left">Hi, I'm Nasib Hossain, a passionate Front-End Developer</h3>
 
-<h3 align="left"> 🌱 I’m currently learning Next.js </h3>
+<h3 align="left"> 🌱 I’m currently learning Typescript </h3>
 
 <h3 align="left"> 💬 Ask me about React </h3>
 
