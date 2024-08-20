@@ -1,6 +1,6 @@
 <!-- banner -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nasib15&label=Profile%20views&color=0e75b6&style=flat" alt="nasib15" /> </p>
-<img src="https://i.ibb.co/kMv7ZCw/Github-Banner.png" />
+<img src="https://i.ibb.co/mSkhVSX/Github-Banner.png" />
 
 <!-- About Me Section -->
 
