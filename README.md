@@ -1,15 +1,24 @@
 <!-- banner -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nasib15&label=Profile%20views&color=0e75b6&style=flat" alt="nasib15" /> </p>
+<div style="display: flex; justify-content: space-between; align-items: center;" align='right'>
+  <a href="https://wakatime.com/@018d1772-750d-4e37-ad20-801674bc1987">
+    <img src="https://wakatime.com/badge/user/018d1772-750d-4e37-ad20-801674bc1987.svg" alt="wakatime">
+  </a>
+   <img src="https://komarev.com/ghpvc/?username=nasib15&label=Profile%20views&color=0e75b6&style=flat" alt="nasib15" />
+</div>
+<br/>
+<br/>
 <img src="https://i.ibb.co/mSkhVSX/Github-Banner.png" />
+
+
 
 <!-- About Me Section -->
 
 <h2 align="left">🔰 About Me</h2>
 <h3 align="left">Hi, I'm Nasib Hossain, a passionate Front-End Developer</h3>
 
-<h3 align="left"> 🌱 I’m currently exploring Typescript </h3>
+<h3 align="left"> 🌱 I’m currently exploring React Advanced Topics </h3>
 
-<h3 align="left"> 💬 Ask me about React </h3>
+<h3 align="left"> 💬 Ask me about React, Tech Related Topics </h3>
 
 <!-- Stats -->
 
