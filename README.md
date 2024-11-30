@@ -16,7 +16,7 @@
 <h2 align="left">🔰 About Me</h2>
 <h3 align="left">Hi, I'm Nasib Hossain, a passionate Front-End Developer</h3>
 
-<h3 align="left"> 🌱 I’m currently exploring React Advanced Topics </h3>
+<h3 align="left"> 🌱 I’m currently exploring Next.js </h3>
 
 <h3 align="left"> 💬 Ask me about React, Tech Related Topics </h3>
 
@@ -57,9 +57,9 @@
 
 <div align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nodejs,express,git" />
+    <img src="https://skillicons.dev/icons?i=vite,firebase,mongodb,nodejs,express,git" />
     <br/>
     <img src="https://skillicons.dev/icons?i=npm,vscode,vercel" />
      <br/>
