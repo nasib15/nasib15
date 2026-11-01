@@ -35,11 +35,11 @@
 <br/>
 
 <div align="left">
-  <a href="https://www.facebook.com/knhnehal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/nasibhossain" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/Nehal_10" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://x.com/knh_nehal" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="x logo"  />
   </a>
   <a href="mailto:nasibhossain57@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -57,11 +57,11 @@
 
 <div align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs" />
     <br/>
     <img src="https://skillicons.dev/icons?i=vite,firebase,mongodb,nodejs,express,git" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=npm,vscode,vercel" />
+    <img src="https://skillicons.dev/icons?i=npm,vscode,vercel,netlify" />
      <br/>
   </a>
 </div>
